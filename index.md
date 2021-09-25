@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Patchi the Tasks Fairy Œ(ˊVˋ)B
 
-You can use the [editor on GitHub](https://github.com/aaapppsss/ip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Patchi is a cute and helpful scheduler + todo list that runs on CLI.
 
 ### Markdown
 
