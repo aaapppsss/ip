@@ -1,8 +1,22 @@
-## Patchi the Tasks Fairy Œ(ˊVˋ)B
+# Patchi the Tasks Fairy Œ(ˊVˋ)B
 
-Patchi is a cute and helpful scheduler + todo list that runs on CLI.
+Patchi is a cute and helpful **scheduler + todo list** that runs on CLI.
 
-### Markdown
+## Quick start
+
+1. Ensure you have Java 11 or above installed in your Computer.
+2. Download the latest patchi.jar from this repository.
+3. Copy the file to the folder you want to use as the home folder for your Patchi. (CREATE DIR)
+4. (?????)
+
+## Features
+
+### Adding a Todo: `todo`
+
+### Adding a Deadline: `deadline`
+
+### Adding a Event: `event`
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
